@@ -1,2 +1,4 @@
-# Thinkful_projects
 Business Analysis - Revenue Growth Models - Lariat Rent-A-Car: Examined and cleaned historical sales data using Excel (VLookUp, pivot tables). Completed exploratory data analysis to identify strategic scenarios to increase revenue. Created Dashboards in Excel to model said business strategies.
+The objective of this project is to minimize business cost and maximize revenue for the Lariat rental car company. I focused on the important variables that are impacting the cost and revenue.
+For minimizing business costs, the monthly cost and insurance per car was reduced and for increasing revenue, most profitable cars, as well as most profitable locations were identified.
+Inputs and outputs for the model- Inputs: We need a baseline summary of 2018 which has total revenue, yearly cost, profit and profit margin. Outputs: Outputs:  The output from the model will be three different strategies to maximize revenue and minimize business costs, which then will have a concluding strategy.
